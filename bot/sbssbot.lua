@@ -246,7 +246,7 @@ function create_config( )
 ]],
     help_text_realm = [[
 See Patterns In Github
-]],
+]
     help_text = [[
 
   لیست دستورات :
